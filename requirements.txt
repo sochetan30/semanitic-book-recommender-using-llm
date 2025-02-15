@@ -1,0 +1,11 @@
+kagglehub
+python-dotenv
+certifi
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+gradio
+#ipykernel
+#ipywidget
+sentence_transformers
